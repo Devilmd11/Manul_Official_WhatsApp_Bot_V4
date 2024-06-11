@@ -4,7 +4,7 @@
 //Instagram: manul official
 //Telegram: t.me/manulofficial
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +923119416058
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@manulofficial
 
 require('./lib/listmenu')
@@ -436,7 +436,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: botname,
 body: ownername,
-thumbnailUrl: 'https://telegra.ph/file/5a70df3e29ea0794153f2.jpg',
+thumbnailUrl: 'https://telegra.ph/file/c92f7937ca8e9cb3d7ce5.jpg',
 sourceUrl: websitex
 },
 },
@@ -455,7 +455,7 @@ quoted: m,
             }, 
                message: {  
                   "imageMessage": { 
-                     "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", 
+                     "url": "wa.me/923119416058", 
                      "mimetype": "image/jpeg", 
                      "caption": botname,
                      "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", 
@@ -814,11 +814,11 @@ async function styletext(teks) {
         const xeonyresult = []
         for (let i = 0; i < data.data.result.stickers.length; i++) {
             fileId = data.data.result.stickers[i].thumb.file_id
-            data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
+            data2 = await axios(`wa.me/923119416058}`)
             result = {
             status: 200,
             author: 'DGXeon',
-            url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
+            url: "wa.me/923119416058" + data2.data.result.file_path
             }
             xeonyresult.push(result)
         }
@@ -9406,19 +9406,19 @@ let msg = generateWAMessageFromContent(from, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 🌹\",\"url\":\"https://youtube.com/@manulofficial\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"🌹KinG🌹\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 💧\",\"url\":\"https://t.me/manulofficial\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"😈DeviL 💧\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub 🔘\",\"url\":\"https://github.com/manulofficial7\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"👑DevilkinG 🔘\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp ☘️\",\"url\":\"https://wa.me/94742274855\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"🇵🇰DeviL🔥 ☘️\",\"url\":\"https://wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },              
               {
   "name": "quick_reply",
@@ -9468,19 +9468,19 @@ let msg = generateWAMessageFromContent(m.chat, {
                   buttons: [
              {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 🌹\",\"url\":\"https://youtube.com/@manulofficial\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"🌹KinG 🌹\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 💧\",\"url\":\"https://t.me/manulofficial\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"😈DeviL 💧\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub 🔘\",\"url\":\"https://github.com/manulofficial7\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Devil😈 🔘\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp ☘️\",\"url\":\"https://wa.me/94742274855\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"👑Devil🌹 ☘️\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },              
               {
   "name": "quick_reply",
@@ -9488,11 +9488,11 @@ let msg = generateWAMessageFromContent(m.chat, {
    },
               {
                 "name": "quick_reply",
-                "buttonParamsJson": `{"display_text":"Owner 👤","id":"${prefix}owner"}`
+                "buttonParamsJson": `{"display_text":"Number 👤","id":"${prefix}owner"}`
               },
               {
                 "name": "quick_reply",
-                "buttonParamsJson": `{"display_text":"Script 📃","id":"${prefix}script"}`
+                "buttonParamsJson": `{"display_text":"Devil🌹 📃","id":"${prefix}script"}`
               }
                                   ],
                 }),
@@ -9636,19 +9636,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 🌹\",\"url\":\"https://youtube.com/@manulofficial\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Devil 🌹\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 💧\",\"url\":\"https://t.me/manulofficial\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Devil 💧\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub 🔘\",\"url\":\"https://github.com/manulofficial7\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"wa.me/923119416058 🔘\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp ☘️\",\"url\":\"https://wa.me/94742274855\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Devil ☘️\",\"url\":\"wa.me/923119416058\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                 "name": "quick_reply",
@@ -9656,7 +9656,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                 "name": "quick_reply",
-                "buttonParamsJson": `{"display_text":"Script 📃","id":"${prefix}script"}`
+                "buttonParamsJson": `{"display_text":"Devil 📃","id":"${prefix}script"}`
               }
            ],
           }),
@@ -9780,7 +9780,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/5a70df3e29ea0794153f2.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/c92f7937ca8e9cb3d7ce5.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -9806,7 +9806,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://telegra.ph/file/5a70df3e29ea0794153f2.jpg",
+thumbnailUrl: "https://telegra.ph/file/c92f7937ca8e9cb3d7ce5.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
